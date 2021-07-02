@@ -11,4 +11,4 @@ const RepositoriesList: React.FC = () => {
   )
 }
 
-export default RepositoriesList
+export {RepositoriesList}
